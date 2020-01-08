@@ -6,6 +6,11 @@
         "appID": "72NX38Y9GF.com.pb.careapp",
         "paths": ["*"]
 
+      },
+{
+        "appID": "H384ABP76N.com.pb.careapp",
+        "paths": ["*"]
+
       }
      ]
   }
