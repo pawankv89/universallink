@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "H384ABP76N.com.pb.careapp",
+        "paths": ["*"]
+
+      }
+     ]
+  }
+}
